@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20289
-Fork on GitHub
-6184
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Salman Naveed Khan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan. Currently Working at Haemimont AD as a Backend Engineer.</h3>
 
