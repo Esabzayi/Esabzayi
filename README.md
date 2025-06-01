@@ -62,8 +62,9 @@
 ---
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=esabzayi&theme=github" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=esabzayi&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
+
 
 ---
 
