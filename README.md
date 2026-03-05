@@ -6,11 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=esabzayi&label=Profile%20views&color=0e75b6&style=flat" alt="esabzayi" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=esabzayi&theme=algolia&margin-w=15&margin-h=15" alt="esabzayi" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://twitter.com/esabzayi" target="_blank">
@@ -51,9 +46,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esabzayi&layout=compact&theme=tokyonight" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=esabzayi&theme=tokyonight" />
