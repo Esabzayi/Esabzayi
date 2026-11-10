@@ -1,450 +1,215 @@
 <div align="center">
 
-# 👋 Hi, I'm Salman Naveed Khan
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2563EB,50:7C3AED,100:06B6D4&amp;height=210&amp;section=header&amp;text=Salman%20Naveed%20Khan&amp;fontSize=40&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;desc=Software%20Engineer%20%C2%B7%20Haemimont%20AD&amp;descSize=18&amp;descAlignY=68" width="100%" alt="Salman Naveed Khan — Software Engineer at Haemimont AD" />
 
-### Software Engineer @ Haemimont AD
+**Backend Engineering · Enterprise Applications · Web & Mobile Integration**
 
-**Backend • Enterprise Applications • Fintech Platforms • Mobile & Web Systems**
+Building software that connects business workflows, application logic, and reliable data.
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/esabzayi)
-[![GitHub](https://img.shields.io/badge/GitHub-esabzayi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/esabzayi)
-![Profile Views](https://komarev.com/ghpvc/?username=esabzayi&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=800&color=0E75B6&center=true&vCenter=true&width=750&lines=Enterprise+Software+Engineer;CatMap+Web+%7C+BizRocket+%7C+Biz+Mobile;iPOS+%7C+Karobar;Backend+%7C+Web+%7C+Mobile+Systems;Building+Reliable+Business+Applications" />
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-I'm a software engineer working on enterprise-grade **web, mobile, fintech and business management platforms**.
-
-My day-to-day work involves developing new features, fixing production issues, improving existing modules, working with databases, supporting business workflows and maintaining applications used in real operational environments.
-
-My current project experience mainly revolves around:
-
-- 🌍 **CatMap Web**
-- 🚀 **BizRocket**
-- 📱 **Biz Mobile**
-- 💳 **iPOS**
-- 🏪 **Karobar**
-
----
-
-# 🚀 Projects I Work On
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 🌍 CatMap Web
-
-Enterprise catastrophe modeling and insurance-related platform.
-
-### My Work
-
-- Feature development
-- Job & History modules
-- Portfolio workflows
-- Analysis workflows
-- Reporting-related functionality
-- Production issue investigation
-- Database troubleshooting
-- ServiceNow incident resolution
-- Existing module improvements
-- Backend and UI integration
-
-### Areas
-
-`Catastrophe Modeling`  
-`Portfolio Management`  
-`Analysis Management`  
-`Reporting`  
-`Enterprise Support`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🚀 BizRocket
-
-Business and financial platform focused on helping organizations manage operational workflows.
-
-### My Work
-
-- Backend development
-- API development
-- Business logic implementation
-- Database operations
-- Feature enhancements
-- Bug fixing
-- Production support
-- Integration work
-- Performance and stability improvements
-
-### Areas
-
-`Business Management`  
-`Backend Services`  
-`APIs`  
-`Data Processing`  
-`Enterprise Workflows`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## 📱 Biz Mobile
-
-Mobile extension of the Biz ecosystem focused on business operations and accessibility.
-
-### My Work
-
-- Mobile feature development
-- API integration
-- Business workflow implementation
-- Backend/mobile coordination
-- Bug fixes
-- Data synchronization
-- UI flow improvements
-- Production troubleshooting
-
-### Areas
-
-`Mobile Applications`  
-`Business Operations`  
-`API Integration`  
-`Data Synchronization`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 💳 iPOS
-
-Point-of-sale and transaction-focused platform supporting business payments and operational workflows.
-
-### My Work
-
-- Transaction-related features
-- Backend logic
-- API integration
-- Data validation
-- Issue investigation
-- Business rules
-- System integrations
-- Production support
-
-### Areas
-
-`Point of Sale`  
-`Transactions`  
-`Payments`  
-`Business Logic`  
-`System Integration`
-
-</td>
-</tr>
-</table>
-
----
-
-# 🏪 Karobar
-
-Karobar is another business-focused platform I work with, centered around day-to-day commercial operations.
-
-### My Work
-
-```text
-Karobar
-├── Business workflow development
-├── Backend implementation
-├── API integration
-├── Database operations
-├── Feature enhancements
-├── Bug fixing
-├── Production support
-└── Application maintenance
-```
-
-### Main Focus
-
-`Business Operations` • `Data Management` • `Backend Services` • `Application Support`
-
----
-
-# 🧠 What My Work Looks Like
-
-```text
-New Feature Request
-        │
-        ▼
-Understand Business Requirement
-        │
-        ▼
-Analyze Existing System
-        │
-        ▼
-Backend / Database Changes
-        │
-        ▼
-API / UI Integration
-        │
-        ▼
-Testing
-        │
-        ▼
-Deployment
-        │
-        ▼
-Production Monitoring
-        │
-        ▼
-Bug Fix / Improvement
-```
-
----
-
-# ⚙️ Core Engineering Work
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 💻 Development
-
-- Backend development
-- Web development
-- Mobile integration
-- API development
-- Feature implementation
-- Existing code maintenance
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🗄️ Data
-
-- SQL investigation
-- Database queries
-- Data validation
-- Data consistency
-- Business data flows
-- Production data troubleshooting
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🛠️ Support
-
-- Production incidents
-- ServiceNow tickets
-- Root cause analysis
-- Bug fixing
-- User-reported issues
-- System troubleshooting
-
-</td>
-</tr>
-</table>
-
----
-
-# 🔍 Enterprise Support & Troubleshooting
-
-A significant part of my engineering work involves diagnosing real production issues rather than only developing greenfield features.
-
-Typical problems include:
-
-```text
-Portfolio not visible
-        ↓
-Analysis missing
-        ↓
-Report generation failure
-        ↓
-Incorrect database state
-        ↓
-Application workflow failure
-        ↓
-Backend / SQL investigation
-        ↓
-Fix + validation
-```
-
-I regularly work across **application code, databases, business workflows and production environments** to identify the actual cause of issues.
-
----
-
-# 🧩 Domains I've Worked In
-
-<div align="center">
-
-![Insurance](https://img.shields.io/badge/Insurance-Catastrophe_Modeling-005571?style=for-the-badge)
-
-![Fintech](https://img.shields.io/badge/FinTech-Payments_&_Transactions-2E8B57?style=for-the-badge)
-
-![Business](https://img.shields.io/badge/Business-Management-FF6F00?style=for-the-badge)
-
-![POS](https://img.shields.io/badge/POS-Systems-512BD4?style=for-the-badge)
-
-![Enterprise](https://img.shields.io/badge/Enterprise-Applications-0A66C2?style=for-the-badge)
-
-</div>
-
----
-
-# 🛠️ Technical Focus
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,html,css,mysql,postgres,mongodb,docker,git,linux,androidstudio&perline=7" />
-
-</div>
-
-<br/>
-
-### Main Areas
-
-```yaml
-development:
-  - Backend Development
-  - Enterprise Web Applications
-  - Mobile Integrations
-  - REST APIs
-  - Business Logic
-
-data:
-  - SQL
-  - Relational Databases
-  - Data Validation
-  - Production Data Investigation
-
-engineering:
-  - Feature Development
-  - Bug Fixing
-  - System Integration
-  - Production Support
-  - Application Maintenance
-
-domains:
-  - Insurance
-  - Catastrophe Modeling
-  - FinTech
-  - Payments
-  - POS
-  - Business Management
-```
-
----
-
-# 📌 Project Portfolio
-
-<div align="center">
-
-| Project | Domain | Focus |
-|---|---|---|
-| 🌍 **CatMap Web** | Insurance / Cat Modeling | Web, Backend, Reporting, Support |
-| 🚀 **BizRocket** | Business / FinTech | Backend, APIs, Business Logic |
-| 📱 **Biz Mobile** | Mobile Business | Mobile Integration, APIs |
-| 💳 **iPOS** | Payments / POS | Transactions, Integration |
-| 🏪 **Karobar** | Business Management | Backend, Data, Workflows |
-
-</div>
-
----
-
-# 💼 My Engineering Approach
-
-I prefer understanding the **complete business flow** rather than working on isolated pieces of code.
-
-```text
-Business Requirement
-       +
-Application Logic
-       +
-Database State
-       +
-API Behavior
-       +
-User Workflow
-       =
-Reliable Software
-```
-
-That approach helps me handle both **new development and production troubleshooting** effectively.
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=esabzayi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esabzayi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=esabzayi&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=esabzayi&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
-# 🎯 Currently Focused On
-
-```diff
-+ Enterprise backend development
-+ CatMap feature development
-+ Business platform development
-+ FinTech systems
-+ POS applications
-+ Mobile & Web integration
-+ Production troubleshooting
-+ Database-driven business workflows
-+ Clean and maintainable code
-```
-
----
-
-<div align="center">
-
-## 🤝 Let's Connect
-
-**Enterprise Software • Backend Engineering • FinTech • Business Platforms**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salman_Naveed_Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/esabzayi)
+<a href="https://linkedin.com/in/esabzayi"><img src="https://img.shields.io/badge/LinkedIn-Let%27s_Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://github.com/esabzayi"><img src="https://img.shields.io/badge/GitHub-esabzayi-7C3AED?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub esabzayi" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0e75b6,100:512BD4" width="100%"/>
+<img src="https://img.shields.io/badge/BACKEND-2563EB?style=flat-square" alt="Backend" />
+<img src="https://img.shields.io/badge/ENTERPRISE-7C3AED?style=flat-square" alt="Enterprise" />
+<img src="https://img.shields.io/badge/WEB_%26_MOBILE-0891B2?style=flat-square" alt="Web and mobile" />
+<img src="https://img.shields.io/badge/PRODUCTION_RELIABILITY-059669?style=flat-square" alt="Production reliability" />
 
-### Build systems that solve real business problems.
+</div>
+
+## 🧑‍💻 About me
+
+I'm a software engineer working across **enterprise applications, business platforms, payments, and mobile integrations**. My experience spans feature development, backend services, SQL investigation, and production troubleshooting.
+
+I follow a feature from the business requirement through application logic, APIs, and database changes to validation. When a production issue appears, I trace that same path to understand what failed and why.
+
+**Project experience:** CatMap Web · BizRocket · Biz Mobile · iPOS · HVAC software
+
+## 🚀 Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/01-CATMAP_WEB-2563EB?style=for-the-badge" alt="CatMap Web" />
+
+### 🌍 Insurance & catastrophe modeling
+
+Enterprise portfolio, analysis, and reporting workflows.
+
+- Features across Job, History, portfolio, and analysis modules.
+- Backend and UI integration, including reporting functionality.
+- Production investigation through application code, SQL, and ServiceNow incidents.
+
+`Enterprise Web` · `Reporting` · `SQL`
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/02-BIZROCKET-7C3AED?style=for-the-badge" alt="BizRocket" />
+
+### 🚀 Business & financial operations
+
+Business software connecting operational workflows and application data.
+
+- Backend features, APIs, integrations, and business rules.
+- Database investigation and business data validation.
+- Module improvements, defect resolution, and production support.
+
+`Backend` · `APIs` · `Business Logic`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/03-BIZ_MOBILE-0891B2?style=for-the-badge" alt="Biz Mobile" />
+
+### 📱 Mobile business applications
+
+Business workflows extended to mobile through backend integration.
+
+- Mobile feature development and API integration.
+- Data synchronization and mobile/backend coordination.
+- UI flow improvements and production troubleshooting.
+
+`Mobile` · `Integration` · `Synchronization`
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/04-iPOS-EA580C?style=for-the-badge" alt="iPOS" />
+
+### 💳 Point of sale & transactions
+
+Transaction-focused software for payments and business operations.
+
+- Transaction logic, validation, and business rules.
+- APIs and connected system integrations.
+- Operational issue investigation and application maintenance.
+
+`POS` · `Transactions` · `Payments`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<img src="https://img.shields.io/badge/05-HVAC-059669?style=for-the-badge" alt="HVAC" />
+
+### ❄️ HVAC software
+
+HVAC software is also part of my project experience, alongside enterprise and business applications.
+
+`HVAC` · `Industry Software`
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Technical toolkit
+
+### Languages
+
+![C#](https://img.shields.io/badge/C%23-7C3AED?style=for-the-badge)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-B7791F?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge)
+![XAML](https://img.shields.io/badge/XAML-0C8599?style=for-the-badge)
+
+### .NET & backend
+
+![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge)
+![ASP.NET Core Web API](https://img.shields.io/badge/ASP.NET_Core_Web_API-2563EB?style=for-the-badge)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-7C3AED?style=for-the-badge)
+![EF Core](https://img.shields.io/badge/EF_Core-6D28D9?style=for-the-badge)
+![LINQ](https://img.shields.io/badge/LINQ-0891B2?style=for-the-badge)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-0F766E?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge)
+
+### Web, mobile & UI
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge)
+![DevExpress](https://img.shields.io/badge/DevExpress-FF7200?style=for-the-badge)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge)
+
+### Databases & storage
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge)
+![MariaDB](https://img.shields.io/badge/MariaDB-005C70?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-B7791F?style=for-the-badge)
+![MS Access](https://img.shields.io/badge/MS_Access-A4373A?style=for-the-badge)
+![Hive](https://img.shields.io/badge/Hive-D97706?style=for-the-badge)
+
+### Development & delivery
+
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge)
+![VPS](https://img.shields.io/badge/VPS-0F766E?style=for-the-badge)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge)
+
+### Architecture & design
+
+![SOLID](https://img.shields.io/badge/SOLID-2563EB?style=for-the-badge)
+![DRY](https://img.shields.io/badge/DRY-0891B2?style=for-the-badge)
+![Domain Driven Design](https://img.shields.io/badge/Domain_Driven_Design-7C3AED?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-059669?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-0D9488?style=for-the-badge)
+![Layered Architecture](https://img.shields.io/badge/Layered_Architecture-EA580C?style=for-the-badge)
+![Service Oriented Architecture](https://img.shields.io/badge/Service_Oriented_Architecture-BE185D?style=for-the-badge)
+
+## ⚙️ Engineering focus
+
+| | Area | What I work on |
+| :---: | :--- | :--- |
+| 🔵 | **Backend & APIs** | Application services, REST APIs, business logic, and integrations |
+| 🟣 | **Enterprise applications** | Feature development, business workflows, and existing system improvements |
+| 🟢 | **Data & SQL** | Queries, validation, consistency checks, and production investigation |
+| 🟠 | **Web & mobile** | UI/backend integration, mobile workflows, and synchronization |
+| 🛠️ | **Production reliability** | Incident investigation, root cause analysis, and fix validation |
+
+## 🧭 How I work
+
+**Understand the workflow → Trace the system → Implement → Validate**
+
+- **Start with the business flow.** Understand the user's goal and existing behavior before changing code.
+- **Follow the evidence.** Investigate application logic, API behavior, and database state together.
+- **Keep changes maintainable.** Make business rules understandable and fit improvements into the surrounding system.
+- **Check the outcome.** Validate the affected workflow, its data, and relevant edge cases.
+
+## 🎯 Current focus
+
+Enterprise backend development, database-driven workflows, web and mobile integration, and improving the reliability of existing applications.
+
+---
+
+<div align="center">
+
+### 🤝 Let's connect
+
+**Enterprise Software · Backend Engineering · Business Platforms**
+
+<a href="https://linkedin.com/in/esabzayi"><img src="https://img.shields.io/badge/LinkedIn-Salman_Naveed_Khan-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Salman Naveed Khan on LinkedIn" /></a>
+
+<br/><br/>
+
+*Building software that holds up in everyday business use.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2563EB,50:7C3AED,100:06B6D4&amp;height=100&amp;section=footer" width="100%" alt="Blue, purple, and cyan footer" />
 
 </div>
